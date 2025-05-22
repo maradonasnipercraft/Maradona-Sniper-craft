@@ -1,11 +1,66 @@
-<header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Maradona SniperCraft Trading Bot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0d0d0d;
+      color: #f1f1f1;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1a1a1a;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      color: #00ff99;
+    }
+    main {
+      padding: 20px;
+      text-align: center;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #00ff99;
+      color: #000;
+      padding: 12px 24px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      background-color: #1a1a1a;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+  </style>
+</head>
+<body>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+<header>
+  <h1>Maradona SniperCraft Trading Bot</h1>
+  <p>Precision. Speed. Profit.</p>
+</header>
+
+<main>
+  <p>Welcome to the official homepage of the Maradona SniperCraft Bot – your ultimate companion for crypto/token sniping and trading automation.</p>
+  <a href="#start" class="btn">Get Started</a>
+</main>
+
+<footer>
+  <p>&copy; 2025 Maradona SniperCraft</p>
+</footer>
+
+</body>
+</html>
 
 # GitHub Pages
 
